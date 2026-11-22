@@ -1,0 +1,2151 @@
+[
+  {
+    "name": "Adafruit MPU6050",
+    "version": "2.2.6",
+    "repository": "https://github.com/adafruit/Adafruit_MPU6050",
+    "license": "BSD-3-Clause",
+    "scope": "firmware",
+    "notices": [
+      "LICENSES/Adafruit_MPU6050-0-license.txt"
+    ],
+    "revision": "88b3f5983771ed6efc6c048b2c49c77ed1d417f2",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "Adafruit BusIO",
+    "version": "1.17.4",
+    "repository": "https://github.com/adafruit/Adafruit_BusIO",
+    "license": "MIT",
+    "scope": "firmware",
+    "notices": [
+      "LICENSES/Adafruit_BusIO-0-LICENSE"
+    ],
+    "revision": "3b8364267c3ee6e16bad91bc2101aefbd5b5915f",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "Adafruit Unified Sensor",
+    "version": "1.1.15",
+    "repository": "https://github.com/adafruit/Adafruit_Sensor",
+    "license": "Apache-2.0",
+    "scope": "firmware",
+    "notices": [
+      "LICENSES/Adafruit_Unified_Sensor-0-LICENSE.txt"
+    ],
+    "revision": "0a9127a1e886ff1adb4c1b6f5958b24108d55aa6",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "NimBLE-Arduino",
+    "version": "2.3.7",
+    "repository": "https://github.com/h2zero/NimBLE-Arduino",
+    "license": "Apache-2.0",
+    "scope": "firmware",
+    "notices": [
+      "LICENSES/NimBLE-Arduino-0-LICENSE",
+      "LICENSES/NimBLE-Arduino-1-NOTICE",
+      "LICENSES/NimBLE-Arduino-2-LICENSE",
+      "LICENSES/NimBLE-Arduino-3-NOTICE"
+    ],
+    "revision": "a17bec675cd421a5f83bb5fe266fd5b498990aa4",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "Fusion",
+    "version": "snapshot",
+    "repository": "https://github.com/xioTechnologies/Fusion",
+    "license": "MIT",
+    "scope": "firmware",
+    "notices": [
+      "LICENSES/Fusion-0-LICENSE.md"
+    ],
+    "revision": "a8d7224f36a0ec82345ef49a3db50e65f8d3bab8",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "Adafruit GFX Library",
+    "version": "1.13.0",
+    "repository": "https://github.com/adafruit/Adafruit-GFX-Library",
+    "license": "BSD-2-Clause",
+    "scope": "resolved example-only",
+    "notices": [
+      "LICENSES/Adafruit_GFX_Library-0-license.txt"
+    ],
+    "revision": "1.13.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "Adafruit SSD1306",
+    "version": "2.5.17",
+    "repository": "https://github.com/adafruit/Adafruit_SSD1306",
+    "license": "BSD-3-Clause",
+    "scope": "resolved example-only",
+    "notices": [
+      "LICENSES/Adafruit_SSD1306-0-license.txt"
+    ],
+    "revision": "2.5.17",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "Arduino-ESP32",
+    "version": "2.0.17",
+    "repository": "https://github.com/espressif/arduino-esp32",
+    "license": "LGPL-2.1-or-later",
+    "scope": "firmware framework",
+    "notices": [
+      "LICENSES/Arduino-ESP32-0-Arduino-ESP32.txt"
+    ],
+    "revision": "dcc1105b",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "ESP-IDF",
+    "version": "4.4.7",
+    "repository": "https://github.com/espressif/esp-idf",
+    "license": "Apache-2.0",
+    "scope": "firmware framework",
+    "notices": [
+      "LICENSES/ESP-IDF-0-ESP-IDF.txt"
+    ],
+    "revision": "Arduino 2.0.17 precompiled SDK",
+    "modifications": "Vendor SDK includes mixed licenses"
+  },
+  {
+    "name": "PlatformIO Core",
+    "version": "6.1.19",
+    "repository": "https://github.com/platformio/platformio-core",
+    "license": "Apache-2.0",
+    "scope": "build tool",
+    "notices": [
+      "LICENSES/PlatformIO_Core-0-PlatformIO-Core.txt"
+    ],
+    "revision": "6.1.19",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "PlatformIO espressif32",
+    "version": "6.10.0",
+    "repository": "https://github.com/platformio/platform-espressif32",
+    "license": "Apache-2.0",
+    "scope": "build tool",
+    "notices": [
+      "LICENSES/PlatformIO_espressif32-0-LICENSE"
+    ],
+    "revision": "6.10.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "ESP32 GCC",
+    "version": "8.4.0+2021r2-patch5",
+    "repository": "https://github.com/espressif/crosstool-NG",
+    "license": "GPL-3.0-or-later WITH GCC-exception-3.1",
+    "scope": "build tool",
+    "notices": [],
+    "revision": "8.4.0+2021r2-patch5",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "esptool",
+    "version": "4.5.1",
+    "repository": "https://github.com/espressif/esptool",
+    "license": "GPL-2.0-or-later",
+    "scope": "build tool",
+    "notices": [],
+    "revision": "4.5.1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "Prosthesis Leg",
+    "version": "source scan",
+    "repository": "https://sketchfab.com/3d-models/prosthesis-leg-6339595921fe491fb58772ec1502c87b",
+    "license": "CC-BY-4.0",
+    "scope": "asset",
+    "notices": [
+      "LICENSES/Prosthesis_Leg-0-license.txt"
+    ],
+    "revision": "source scan",
+    "modifications": "Welded, decimated, rigged and animated in Blender"
+  },
+  {
+    "name": "Roboto",
+    "version": "Flutter SDK 3.38.9 distribution",
+    "repository": "https://github.com/googlefonts/roboto",
+    "license": "Apache-2.0",
+    "scope": "asset",
+    "notices": [
+      "LICENSES/Roboto-0-roboto_license.txt"
+    ],
+    "revision": "Flutter SDK 3.38.9 distribution",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "android_intent_plus",
+    "version": "6.1.0",
+    "repository": "https://github.com/fluttercommunity/plus_plugins/tree/main/packages/android_intent_plus",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/android_intent_plus-0-LICENSE"
+    ],
+    "revision": "6.1.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "archive",
+    "version": "4.0.9",
+    "repository": "https://github.com/brendan-duncan/archive",
+    "license": "BSD-2-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/archive-0-LICENSE",
+      "LICENSES/archive-1-LICENSE-other.md"
+    ],
+    "revision": "4.0.9",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "args",
+    "version": "2.7.0",
+    "repository": "https://github.com/dart-lang/core/tree/main/pkgs/args",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/args-0-LICENSE"
+    ],
+    "revision": "2.7.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "async",
+    "version": "2.13.1",
+    "repository": "https://github.com/dart-lang/core/tree/main/pkgs/async",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/async-0-LICENSE"
+    ],
+    "revision": "2.13.1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "barcode",
+    "version": "2.2.9",
+    "repository": "https://github.com/DavBfr/dart_barcode",
+    "license": "Apache-2.0",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/barcode-0-LICENSE"
+    ],
+    "revision": "2.2.9",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "bidi",
+    "version": "2.0.13",
+    "repository": "https://github.com/xclud/dart_bidi",
+    "license": "MIT",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/bidi-0-LICENSE"
+    ],
+    "revision": "2.0.13",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "bluez",
+    "version": "0.8.3",
+    "repository": "https://github.com/canonical/bluez.dart",
+    "license": "MPL-2.0",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/bluez-0-LICENSE"
+    ],
+    "revision": "0.8.3",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "boolean_selector",
+    "version": "2.1.2",
+    "repository": "https://github.com/dart-lang/tools/tree/main/pkgs/boolean_selector",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/boolean_selector-0-LICENSE"
+    ],
+    "revision": "2.1.2",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "characters",
+    "version": "1.4.0",
+    "repository": "https://github.com/dart-lang/core/tree/main/pkgs/characters",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/characters-0-LICENSE"
+    ],
+    "revision": "1.4.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "clock",
+    "version": "1.1.2",
+    "repository": "https://github.com/dart-lang/tools/tree/main/pkgs/clock",
+    "license": "Apache-2.0",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/clock-0-LICENSE"
+    ],
+    "revision": "1.1.2",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "code_assets",
+    "version": "1.2.1",
+    "repository": "https://github.com/dart-lang/native/tree/main/pkgs/code_assets",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/code_assets-0-LICENSE"
+    ],
+    "revision": "1.2.1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "collection",
+    "version": "1.19.1",
+    "repository": "https://github.com/dart-lang/core/tree/main/pkgs/collection",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/collection-0-LICENSE"
+    ],
+    "revision": "1.19.1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "cross_file",
+    "version": "0.3.5+5",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/cross_file",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/cross_file-0-LICENSE"
+    ],
+    "revision": "0.3.5+5",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "crypto",
+    "version": "3.0.8",
+    "repository": "https://github.com/dart-lang/core/tree/main/pkgs/crypto",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/crypto-0-LICENSE"
+    ],
+    "revision": "3.0.8",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "dbus",
+    "version": "0.7.15",
+    "repository": "https://github.com/canonical/dbus.dart",
+    "license": "MPL-2.0",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/dbus-0-LICENSE"
+    ],
+    "revision": "0.7.15",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "fake_async",
+    "version": "1.3.3",
+    "repository": "https://github.com/dart-lang/test/tree/master/pkgs/fake_async",
+    "license": "Apache-2.0",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/fake_async-0-LICENSE"
+    ],
+    "revision": "1.3.3",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "ffi",
+    "version": "2.2.0",
+    "repository": "https://github.com/dart-lang/native/tree/main/pkgs/ffi",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/ffi-0-LICENSE"
+    ],
+    "revision": "2.2.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "file",
+    "version": "7.0.1",
+    "repository": "https://github.com/dart-lang/tools/tree/main/pkgs/file",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/file-0-LICENSE"
+    ],
+    "revision": "7.0.1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "file_selector_linux",
+    "version": "0.9.4+1",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/file_selector/file_selector_linux",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/file_selector_linux-0-LICENSE"
+    ],
+    "revision": "0.9.4+1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "file_selector_macos",
+    "version": "0.9.5+1",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/file_selector/file_selector_macos",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/file_selector_macos-0-LICENSE"
+    ],
+    "revision": "0.9.5+1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "file_selector_platform_interface",
+    "version": "2.7.0",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/file_selector/file_selector_platform_interface",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/file_selector_platform_interface-0-LICENSE"
+    ],
+    "revision": "2.7.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "file_selector_windows",
+    "version": "0.9.3+6",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/file_selector/file_selector_windows",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/file_selector_windows-0-LICENSE"
+    ],
+    "revision": "0.9.3+6",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "fixnum",
+    "version": "1.1.1",
+    "repository": "https://github.com/dart-lang/core/tree/main/pkgs/fixnum",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/fixnum-0-LICENSE"
+    ],
+    "revision": "1.1.1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "flutter",
+    "version": "0.0.0",
+    "repository": "https://flutter.dev",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/flutter-0-LICENSE"
+    ],
+    "revision": "Flutter 3.38.9",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "flutter_lints",
+    "version": "6.0.0",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/flutter_lints",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter tooling",
+    "notices": [
+      "LICENSES/flutter_lints-0-LICENSE"
+    ],
+    "revision": "6.0.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "flutter_plugin_android_lifecycle",
+    "version": "2.0.35",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/flutter_plugin_android_lifecycle",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/flutter_plugin_android_lifecycle-0-LICENSE"
+    ],
+    "revision": "2.0.35",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "flutter_secure_storage",
+    "version": "10.3.4",
+    "repository": "https://github.com/mogol/flutter_secure_storage/tree/develop/flutter_secure_storage",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/flutter_secure_storage-0-LICENSE"
+    ],
+    "revision": "10.3.4",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "flutter_secure_storage_darwin",
+    "version": "0.3.2",
+    "repository": "https://github.com/juliansteenbakker/flutter_secure_storage",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/flutter_secure_storage_darwin-0-LICENSE"
+    ],
+    "revision": "0.3.2",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "flutter_secure_storage_linux",
+    "version": "3.0.3",
+    "repository": "https://github.com/mogol/flutter_secure_storage",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/flutter_secure_storage_linux-0-LICENSE"
+    ],
+    "revision": "3.0.3",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "flutter_secure_storage_platform_interface",
+    "version": "2.1.1",
+    "repository": "https://github.com/mogol/flutter_secure_storage",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/flutter_secure_storage_platform_interface-0-LICENSE"
+    ],
+    "revision": "2.1.1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "flutter_secure_storage_web",
+    "version": "2.1.1",
+    "repository": "https://github.com/mogol/flutter_secure_storage",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/flutter_secure_storage_web-0-LICENSE"
+    ],
+    "revision": "2.1.1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "flutter_secure_storage_windows",
+    "version": "4.1.0",
+    "repository": "https://github.com/mogol/flutter_secure_storage",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/flutter_secure_storage_windows-0-LICENSE"
+    ],
+    "revision": "4.1.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "flutter_test",
+    "version": "0.0.0",
+    "repository": "https://pub.dev/packages/flutter_test",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter tooling",
+    "notices": [
+      "LICENSES/flutter_test-0-LICENSE"
+    ],
+    "revision": "Flutter 3.38.9",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "flutter_web_bluetooth",
+    "version": "1.2.0",
+    "repository": "https://github.com/jeroen1602/flutter_web_bluetooth/",
+    "license": "MIT",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/flutter_web_bluetooth-0-LICENSE"
+    ],
+    "revision": "1.2.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "flutter_web_plugins",
+    "version": "0.0.0",
+    "repository": "https://flutter.dev",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/flutter_web_plugins-0-LICENSE"
+    ],
+    "revision": "Flutter 3.38.9",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "hive_ce",
+    "version": "2.24.0",
+    "repository": "https://github.com/IO-Design-Team/hive_ce/tree/main/hive",
+    "license": "Apache-2.0",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/hive_ce-0-LICENSE"
+    ],
+    "revision": "2.24.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "hooks",
+    "version": "2.0.2",
+    "repository": "https://github.com/dart-lang/native/tree/main/pkgs/hooks",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/hooks-0-LICENSE"
+    ],
+    "revision": "2.0.2",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "http",
+    "version": "1.6.0",
+    "repository": "https://github.com/dart-lang/http/tree/master/pkgs/http",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/http-0-LICENSE"
+    ],
+    "revision": "1.6.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "http_parser",
+    "version": "4.1.2",
+    "repository": "https://github.com/dart-lang/http/tree/master/pkgs/http_parser",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/http_parser-0-LICENSE"
+    ],
+    "revision": "4.1.2",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "image",
+    "version": "4.5.4",
+    "repository": "https://github.com/brendan-duncan/image",
+    "license": "Apache-2.0",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/image-0-LICENSE",
+      "LICENSES/image-1-LICENSE-other.md"
+    ],
+    "revision": "4.5.4",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "image_picker",
+    "version": "1.2.3",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/image_picker/image_picker",
+    "license": "Apache-2.0",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/image_picker-0-LICENSE"
+    ],
+    "revision": "1.2.3",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "image_picker_android",
+    "version": "0.8.13+17",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/image_picker/image_picker_android",
+    "license": "Apache-2.0",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/image_picker_android-0-LICENSE"
+    ],
+    "revision": "0.8.13+17",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "image_picker_for_web",
+    "version": "3.1.1",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/image_picker/image_picker_for_web",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/image_picker_for_web-0-LICENSE"
+    ],
+    "revision": "3.1.1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "image_picker_ios",
+    "version": "0.8.13+7",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/image_picker/image_picker_ios",
+    "license": "Apache-2.0",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/image_picker_ios-0-LICENSE"
+    ],
+    "revision": "0.8.13+7",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "image_picker_linux",
+    "version": "0.2.2",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/image_picker/image_picker_linux",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/image_picker_linux-0-LICENSE"
+    ],
+    "revision": "0.2.2",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "image_picker_macos",
+    "version": "0.2.2+1",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/image_picker/image_picker_macos",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/image_picker_macos-0-LICENSE"
+    ],
+    "revision": "0.2.2+1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "image_picker_platform_interface",
+    "version": "2.11.1",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/image_picker/image_picker_platform_interface",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/image_picker_platform_interface-0-LICENSE"
+    ],
+    "revision": "2.11.1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "image_picker_windows",
+    "version": "0.2.2",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/image_picker/image_picker_windows",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/image_picker_windows-0-LICENSE"
+    ],
+    "revision": "0.2.2",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "isolate_channel",
+    "version": "0.6.2",
+    "repository": "https://github.com/IO-Design-Team/isolate_channel",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/isolate_channel-0-LICENSE"
+    ],
+    "revision": "0.6.2",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "jni",
+    "version": "1.2.1",
+    "repository": "https://github.com/dart-lang/native/tree/main/pkgs/jni",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/jni-0-LICENSE"
+    ],
+    "revision": "1.2.1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "jni_flutter",
+    "version": "1.1.0",
+    "repository": "https://github.com/dart-lang/native/tree/main/pkgs/jni_flutter",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/jni_flutter-0-LICENSE"
+    ],
+    "revision": "1.1.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "jni_util",
+    "version": "1.0.0",
+    "repository": "https://github.com/dart-lang/native/tree/main/pkgs/jni_util",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/jni_util-0-LICENSE"
+    ],
+    "revision": "1.0.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "json_annotation",
+    "version": "4.12.0",
+    "repository": "https://github.com/google/json_serializable.dart/tree/master/json_annotation",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/json_annotation-0-LICENSE"
+    ],
+    "revision": "4.12.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "leak_tracker",
+    "version": "11.0.2",
+    "repository": "https://github.com/dart-lang/leak_tracker/tree/main/pkgs/leak_tracker",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/leak_tracker-0-LICENSE"
+    ],
+    "revision": "11.0.2",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "leak_tracker_flutter_testing",
+    "version": "3.0.10",
+    "repository": "https://github.com/dart-lang/leak_tracker/tree/main/pkgs/leak_tracker_flutter_testing",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/leak_tracker_flutter_testing-0-LICENSE"
+    ],
+    "revision": "3.0.10",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "leak_tracker_testing",
+    "version": "3.0.2",
+    "repository": "https://github.com/dart-lang/leak_tracker/tree/main/pkgs/leak_tracker_testing",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/leak_tracker_testing-0-LICENSE"
+    ],
+    "revision": "3.0.2",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "lints",
+    "version": "6.1.0",
+    "repository": "https://github.com/dart-lang/core/tree/main/pkgs/lints",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/lints-0-LICENSE"
+    ],
+    "revision": "6.1.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "logging",
+    "version": "1.3.0",
+    "repository": "https://github.com/dart-lang/core/tree/main/pkgs/logging",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/logging-0-LICENSE"
+    ],
+    "revision": "1.3.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "matcher",
+    "version": "0.12.17",
+    "repository": "https://github.com/dart-lang/test/tree/master/pkgs/matcher",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/matcher-0-LICENSE"
+    ],
+    "revision": "0.12.17",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "material_color_utilities",
+    "version": "0.11.1",
+    "repository": "https://github.com/material-foundation/material-color-utilities/tree/main/dart",
+    "license": "Apache-2.0",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/material_color_utilities-0-LICENSE"
+    ],
+    "revision": "0.11.1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "meta",
+    "version": "1.17.0",
+    "repository": "https://github.com/dart-lang/sdk/tree/main/pkg/meta",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/meta-0-LICENSE"
+    ],
+    "revision": "1.17.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "mime",
+    "version": "2.1.0",
+    "repository": "https://github.com/dart-lang/tools/tree/main/pkgs/mime",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/mime-0-LICENSE"
+    ],
+    "revision": "2.1.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "model_viewer_plus",
+    "version": "1.10.0",
+    "repository": "https://github.com/omchiii/model_viewer_plus.dart",
+    "license": "Apache-2.0",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/model_viewer_plus-0-LICENSE"
+    ],
+    "revision": "1.10.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "objective_c",
+    "version": "9.5.0",
+    "repository": "https://github.com/dart-lang/native/tree/main/pkgs/objective_c",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/objective_c-0-LICENSE"
+    ],
+    "revision": "9.5.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "package_config",
+    "version": "2.2.0",
+    "repository": "https://github.com/dart-lang/tools/tree/main/pkgs/package_config",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/package_config-0-LICENSE"
+    ],
+    "revision": "2.2.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "path",
+    "version": "1.9.1",
+    "repository": "https://github.com/dart-lang/core/tree/main/pkgs/path",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/path-0-LICENSE"
+    ],
+    "revision": "1.9.1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "path_parsing",
+    "version": "1.1.0",
+    "repository": "https://github.com/flutter/packages/tree/main/third_party/packages/path_parsing",
+    "license": "MIT",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/path_parsing-0-LICENSE"
+    ],
+    "revision": "1.1.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "path_provider",
+    "version": "2.1.6",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/path_provider/path_provider",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/path_provider-0-LICENSE"
+    ],
+    "revision": "2.1.6",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "path_provider_android",
+    "version": "2.3.1",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/path_provider/path_provider_android",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/path_provider_android-0-LICENSE"
+    ],
+    "revision": "2.3.1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "path_provider_foundation",
+    "version": "2.6.0",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/path_provider/path_provider_foundation",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/path_provider_foundation-0-LICENSE"
+    ],
+    "revision": "2.6.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "path_provider_linux",
+    "version": "2.2.2",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/path_provider/path_provider_linux",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/path_provider_linux-0-LICENSE"
+    ],
+    "revision": "2.2.2",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "path_provider_platform_interface",
+    "version": "2.1.3",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/path_provider/path_provider_platform_interface",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/path_provider_platform_interface-0-LICENSE"
+    ],
+    "revision": "2.1.3",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "path_provider_windows",
+    "version": "2.3.0",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/path_provider/path_provider_windows",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/path_provider_windows-0-LICENSE"
+    ],
+    "revision": "2.3.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "pdf",
+    "version": "3.12.0",
+    "repository": "https://github.com/DavBfr/dart_pdf",
+    "license": "Apache-2.0",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/pdf-0-LICENSE"
+    ],
+    "revision": "3.12.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "petitparser",
+    "version": "7.0.2",
+    "repository": "https://github.com/petitparser/dart-petitparser",
+    "license": "MIT",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/petitparser-0-LICENSE"
+    ],
+    "revision": "7.0.2",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "platform",
+    "version": "3.1.6",
+    "repository": "https://github.com/dart-lang/core/tree/main/pkgs/platform",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/platform-0-LICENSE"
+    ],
+    "revision": "3.1.6",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "plugin_platform_interface",
+    "version": "2.1.8",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/plugin_platform_interface",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/plugin_platform_interface-0-LICENSE"
+    ],
+    "revision": "2.1.8",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "posix",
+    "version": "6.5.4",
+    "repository": "https://github.com/onepub-dev/dart_posix",
+    "license": "MIT",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/posix-0-LICENSE"
+    ],
+    "revision": "6.5.4",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "pub_semver",
+    "version": "2.2.1",
+    "repository": "https://github.com/dart-lang/tools/tree/main/pkgs/pub_semver",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/pub_semver-0-LICENSE"
+    ],
+    "revision": "2.2.1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "qr",
+    "version": "3.0.3",
+    "repository": "https://github.com/kevmoo/qr.dart",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/qr-0-LICENSE"
+    ],
+    "revision": "3.0.3",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "record_use",
+    "version": "0.6.0",
+    "repository": "https://github.com/dart-lang/native/tree/main/pkgs/record_use",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/record_use-0-LICENSE"
+    ],
+    "revision": "0.6.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "share_plus",
+    "version": "12.0.2",
+    "repository": "https://github.com/fluttercommunity/plus_plugins/tree/main/packages/share_plus/share_plus",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/share_plus-0-LICENSE"
+    ],
+    "revision": "12.0.2",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "share_plus_platform_interface",
+    "version": "6.1.0",
+    "repository": "https://github.com/fluttercommunity/plus_plugins/tree/main/packages/",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/share_plus_platform_interface-0-LICENSE"
+    ],
+    "revision": "6.1.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "sky_engine",
+    "version": "0.0.0",
+    "repository": "https://pub.dev/packages/sky_engine",
+    "license": "MPL-2.0",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/sky_engine-0-license"
+    ],
+    "revision": "Flutter 3.38.9",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "source_span",
+    "version": "1.10.2",
+    "repository": "https://github.com/dart-lang/tools/tree/main/pkgs/source_span",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/source_span-0-LICENSE"
+    ],
+    "revision": "1.10.2",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "stack_trace",
+    "version": "1.12.1",
+    "repository": "https://github.com/dart-lang/tools/tree/main/pkgs/stack_trace",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/stack_trace-0-LICENSE"
+    ],
+    "revision": "1.12.1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "stream_channel",
+    "version": "2.1.4",
+    "repository": "https://github.com/dart-lang/tools/tree/main/pkgs/stream_channel",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/stream_channel-0-LICENSE"
+    ],
+    "revision": "2.1.4",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "string_scanner",
+    "version": "1.4.1",
+    "repository": "https://github.com/dart-lang/tools/tree/main/pkgs/string_scanner",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/string_scanner-0-LICENSE"
+    ],
+    "revision": "1.4.1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "term_glyph",
+    "version": "1.2.2",
+    "repository": "https://github.com/dart-lang/tools/tree/main/pkgs/term_glyph",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/term_glyph-0-LICENSE"
+    ],
+    "revision": "1.2.2",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "test_api",
+    "version": "0.7.7",
+    "repository": "https://github.com/dart-lang/test/tree/master/pkgs/test_api",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/test_api-0-LICENSE"
+    ],
+    "revision": "0.7.7",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "typed_data",
+    "version": "1.4.0",
+    "repository": "https://github.com/dart-lang/core/tree/main/pkgs/typed_data",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/typed_data-0-LICENSE"
+    ],
+    "revision": "1.4.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "universal_ble",
+    "version": "1.2.0",
+    "repository": "https://github.com/Navideck/universal_ble",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/universal_ble-0-LICENSE"
+    ],
+    "revision": "1.2.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "url_launcher",
+    "version": "6.3.2",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/url_launcher-0-LICENSE"
+    ],
+    "revision": "6.3.2",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "url_launcher_android",
+    "version": "6.3.30",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher_android",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/url_launcher_android-0-LICENSE"
+    ],
+    "revision": "6.3.30",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "url_launcher_ios",
+    "version": "6.4.2",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher_ios",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/url_launcher_ios-0-LICENSE"
+    ],
+    "revision": "6.4.2",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "url_launcher_linux",
+    "version": "3.2.3",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher_linux",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/url_launcher_linux-0-LICENSE"
+    ],
+    "revision": "3.2.3",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "url_launcher_macos",
+    "version": "3.2.6",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher_macos",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/url_launcher_macos-0-LICENSE"
+    ],
+    "revision": "3.2.6",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "url_launcher_platform_interface",
+    "version": "2.3.2",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher_platform_interface",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/url_launcher_platform_interface-0-LICENSE"
+    ],
+    "revision": "2.3.2",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "url_launcher_web",
+    "version": "2.4.3",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher_web",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/url_launcher_web-0-LICENSE"
+    ],
+    "revision": "2.4.3",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "url_launcher_windows",
+    "version": "3.1.6",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher_windows",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/url_launcher_windows-0-LICENSE"
+    ],
+    "revision": "3.1.6",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "uuid",
+    "version": "4.6.0",
+    "repository": "https://github.com/Daegalus/dart-uuid",
+    "license": "MIT",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/uuid-0-LICENSE"
+    ],
+    "revision": "4.6.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "vector_math",
+    "version": "2.2.0",
+    "repository": "https://github.com/google/vector_math.dart",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/vector_math-0-LICENSE"
+    ],
+    "revision": "2.2.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "vm_service",
+    "version": "15.4.0",
+    "repository": "https://github.com/dart-lang/sdk/tree/main/pkg/vm_service",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/vm_service-0-LICENSE"
+    ],
+    "revision": "15.4.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "web",
+    "version": "1.1.1",
+    "repository": "https://github.com/dart-lang/web",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/web-0-LICENSE"
+    ],
+    "revision": "1.1.1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "webview_flutter",
+    "version": "4.14.1",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/webview_flutter/webview_flutter",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/webview_flutter-0-LICENSE"
+    ],
+    "revision": "4.14.1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "webview_flutter_android",
+    "version": "4.12.0",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/webview_flutter/webview_flutter_android",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/webview_flutter_android-0-LICENSE"
+    ],
+    "revision": "4.12.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "webview_flutter_platform_interface",
+    "version": "2.15.1",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/webview_flutter/webview_flutter_platform_interface",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/webview_flutter_platform_interface-0-LICENSE"
+    ],
+    "revision": "2.15.1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "webview_flutter_wkwebview",
+    "version": "3.25.1",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/webview_flutter/webview_flutter_wkwebview",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/webview_flutter_wkwebview-0-LICENSE"
+    ],
+    "revision": "3.25.1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "win32",
+    "version": "5.15.0",
+    "repository": "https://github.com/halildurmus/win32",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/win32-0-LICENSE"
+    ],
+    "revision": "5.15.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "xdg_directories",
+    "version": "1.1.0",
+    "repository": "https://github.com/flutter/packages/tree/main/packages/xdg_directories",
+    "license": "BSD-3-Clause",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/xdg_directories-0-LICENSE"
+    ],
+    "revision": "1.1.0",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "xml",
+    "version": "6.6.1",
+    "repository": "https://github.com/renggli/dart-xml",
+    "license": "MIT",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/xml-0-LICENSE"
+    ],
+    "revision": "6.6.1",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "yaml",
+    "version": "3.1.4",
+    "repository": "https://github.com/dart-lang/tools/tree/main/pkgs/yaml",
+    "license": "MIT",
+    "scope": "Flutter resolved",
+    "notices": [
+      "LICENSES/yaml-0-LICENSE"
+    ],
+    "revision": "3.1.4",
+    "modifications": "Unmodified"
+  },
+  {
+    "name": "Google model-viewer",
+    "version": "bundled with model_viewer_plus 1.10.0",
+    "repository": "https://github.com/google/model-viewer",
+    "license": "Apache-2.0",
+    "scope": "renderer",
+    "notices": [
+      "LICENSES/Google_model-viewer-0-model-viewer.txt",
+      "LICENSES/Google_model-viewer-1-model-viewer-bundle.txt"
+    ],
+    "revision": "sha256:8367184a607fbe07a78b650c0d359e5ebbd96f7e2b22f95f761f559b63430386",
+    "modifications": "Unmodified bundle shipped by the locked Flutter package. See embedded third-party notices."
+  },
+  {
+    "name": "androidx.activity:activity",
+    "version": "1.12.4",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.12.4",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.annotation:annotation",
+    "version": "1.10.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.10.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.annotation:annotation-experimental",
+    "version": "1.4.1",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.4.1",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.annotation:annotation-jvm",
+    "version": "1.10.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.10.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.arch.core:core-common",
+    "version": "2.2.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "2.2.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.arch.core:core-runtime",
+    "version": "2.2.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "2.2.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.browser:browser",
+    "version": "1.9.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [
+      "LICENSES/androidx.browser_browser-0-browser-1.9.0.pom"
+    ],
+    "revision": "1.9.0",
+    "modifications": "Unmodified Maven release. The Apache Software License, Version 2.0"
+  },
+  {
+    "name": "androidx.collection:collection",
+    "version": "1.4.2",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.4.2",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.collection:collection-jvm",
+    "version": "1.4.2",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.4.2",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.compose.runtime:runtime-annotation",
+    "version": "1.9.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.9.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.compose.runtime:runtime-annotation-android",
+    "version": "1.9.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.9.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.concurrent:concurrent-futures",
+    "version": "1.1.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.1.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.core:core",
+    "version": "1.18.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.18.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.core:core-ktx",
+    "version": "1.18.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.18.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.core:core-viewtree",
+    "version": "1.0.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.0.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.customview:customview",
+    "version": "1.0.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.0.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.exifinterface:exifinterface",
+    "version": "1.4.2",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.4.2",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.fragment:fragment",
+    "version": "1.7.1",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.7.1",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.interpolator:interpolator",
+    "version": "1.0.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.0.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.lifecycle:lifecycle-common",
+    "version": "2.7.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "2.7.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.lifecycle:lifecycle-common-java8",
+    "version": "2.7.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "2.7.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.lifecycle:lifecycle-livedata",
+    "version": "2.7.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "2.7.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.lifecycle:lifecycle-livedata-core",
+    "version": "2.7.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "2.7.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.lifecycle:lifecycle-livedata-core-ktx",
+    "version": "2.7.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "2.7.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.lifecycle:lifecycle-process",
+    "version": "2.7.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "2.7.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.lifecycle:lifecycle-runtime",
+    "version": "2.7.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "2.7.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.lifecycle:lifecycle-viewmodel",
+    "version": "2.7.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "2.7.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.lifecycle:lifecycle-viewmodel-savedstate",
+    "version": "2.7.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "2.7.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.loader:loader",
+    "version": "1.0.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.0.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.navigationevent:navigationevent",
+    "version": "1.0.2",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.0.2",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.navigationevent:navigationevent-android",
+    "version": "1.0.2",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.0.2",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.profileinstaller:profileinstaller",
+    "version": "1.4.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.4.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.savedstate:savedstate",
+    "version": "1.2.1",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.2.1",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.startup:startup-runtime",
+    "version": "1.1.1",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.1.1",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.tracing:tracing",
+    "version": "1.2.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.2.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.versionedparcelable:versionedparcelable",
+    "version": "1.1.1",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.1.1",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.viewpager:viewpager",
+    "version": "1.0.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.0.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.webkit:webkit",
+    "version": "1.15.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [
+      "LICENSES/androidx.webkit_webkit-0-webkit-1.15.0.pom"
+    ],
+    "revision": "1.15.0",
+    "modifications": "Unmodified Maven release. The Apache Software License, Version 2.0"
+  },
+  {
+    "name": "androidx.window:window",
+    "version": "1.2.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.2.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.window:window-java",
+    "version": "1.2.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.2.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "androidx.window.extensions.core:core",
+    "version": "1.0.0",
+    "repository": "https://android.googlesource.com/platform/frameworks/support",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.0.0",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "com.getkeepsafe.relinker:relinker",
+    "version": "1.4.5",
+    "repository": "https://github.com/KeepSafe/ReLinker",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [
+      "LICENSES/com.getkeepsafe.relinker_relinker-0-com.getkeepsafe.relinker-relinker-1.4.5.pom"
+    ],
+    "revision": "1.4.5",
+    "modifications": "Unmodified Maven release. The Apache Software License, Version 2.0"
+  },
+  {
+    "name": "com.google.code.findbugs:jsr305",
+    "version": "3.0.2",
+    "repository": "https://code.google.com/p/jsr-305/",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [
+      "LICENSES/com.google.code.findbugs_jsr305-0-com.google.code.findbugs-jsr305-3.0.2.pom"
+    ],
+    "revision": "3.0.2",
+    "modifications": "Unmodified Maven release. The Apache Software License, Version 2.0"
+  },
+  {
+    "name": "com.google.code.gson:gson",
+    "version": "2.13.2",
+    "repository": "https://central.sonatype.com/artifact/com.google.code.gson/gson/2.13.2",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [
+      "LICENSES/com.google.code.gson_gson-0-gson-2.13.2.pom"
+    ],
+    "revision": "2.13.2",
+    "modifications": "Unmodified Maven release. Apache-2.0"
+  },
+  {
+    "name": "com.google.crypto.tink:tink-android",
+    "version": "1.21.0",
+    "repository": "https://github.com/tink-crypto/tink-java.git",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [
+      "LICENSES/com.google.crypto.tink_tink-android-0-tink-android-1.21.0.pom"
+    ],
+    "revision": "1.21.0",
+    "modifications": "Unmodified Maven release. Apache License, Version 2.0"
+  },
+  {
+    "name": "com.google.errorprone:error_prone_annotations",
+    "version": "2.41.0",
+    "repository": "https://central.sonatype.com/artifact/com.google.errorprone/error_prone_annotations/2.41.0",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [
+      "LICENSES/com.google.errorprone_error_prone_annotations-0-error_prone_annotations-2.41.0.pom"
+    ],
+    "revision": "2.41.0",
+    "modifications": "Unmodified Maven release. Apache 2.0"
+  },
+  {
+    "name": "com.google.guava:listenablefuture",
+    "version": "1.0",
+    "repository": "https://central.sonatype.com/artifact/com.google.guava/listenablefuture/1.0",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [
+      "LICENSES/com.google.guava_listenablefuture-0-com.google.guava-listenablefuture-1.0.pom",
+      "LICENSES/com.google.guava_listenablefuture-1-guava-parent-26.0-android.pom"
+    ],
+    "revision": "1.0",
+    "modifications": "Unmodified Maven release. Apache 2.0 inherited from guava-parent 26.0-android"
+  },
+  {
+    "name": "io.flutter:arm64_v8a_release",
+    "version": "1.0.0-587c18f873b8ab57330422bce09047420d9c7f42",
+    "repository": "https://github.com/flutter/engine",
+    "license": "BSD-3-Clause",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.0.0-587c18f873b8ab57330422bce09047420d9c7f42",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "io.flutter:armeabi_v7a_release",
+    "version": "1.0.0-587c18f873b8ab57330422bce09047420d9c7f42",
+    "repository": "https://github.com/flutter/engine",
+    "license": "BSD-3-Clause",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.0.0-587c18f873b8ab57330422bce09047420d9c7f42",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "io.flutter:flutter_embedding_release",
+    "version": "1.0.0-587c18f873b8ab57330422bce09047420d9c7f42",
+    "repository": "https://github.com/flutter/engine",
+    "license": "BSD-3-Clause",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.0.0-587c18f873b8ab57330422bce09047420d9c7f42",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "io.flutter:x86_64_release",
+    "version": "1.0.0-587c18f873b8ab57330422bce09047420d9c7f42",
+    "repository": "https://github.com/flutter/engine",
+    "license": "BSD-3-Clause",
+    "scope": "Android release runtime",
+    "notices": [],
+    "revision": "1.0.0-587c18f873b8ab57330422bce09047420d9c7f42",
+    "modifications": "Unmodified Maven release. "
+  },
+  {
+    "name": "org.jetbrains:annotations",
+    "version": "23.0.0",
+    "repository": "https://github.com/JetBrains/java-annotations",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [
+      "LICENSES/org.jetbrains_annotations-0-org.jetbrains-annotations-23.0.0.pom"
+    ],
+    "revision": "23.0.0",
+    "modifications": "Unmodified Maven release. The Apache Software License, Version 2.0"
+  },
+  {
+    "name": "org.jetbrains.kotlin:kotlin-stdlib",
+    "version": "2.2.20",
+    "repository": "https://github.com/JetBrains/kotlin",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [
+      "LICENSES/org.jetbrains.kotlin_kotlin-stdlib-0-org.jetbrains.kotlin-kotlin-stdlib-2.2.20.pom"
+    ],
+    "revision": "2.2.20",
+    "modifications": "Unmodified Maven release. Apache-2.0"
+  },
+  {
+    "name": "org.jetbrains.kotlinx:kotlinx-coroutines-android",
+    "version": "1.9.0",
+    "repository": "https://github.com/Kotlin/kotlinx.coroutines",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [
+      "LICENSES/org.jetbrains.kotlinx_kotlinx-coroutines-android-0-org.jetbrains.kotlinx-kotlinx-coroutines-android-1.9.0.pom"
+    ],
+    "revision": "1.9.0",
+    "modifications": "Unmodified Maven release. The Apache Software License, Version 2.0"
+  },
+  {
+    "name": "org.jetbrains.kotlinx:kotlinx-coroutines-bom",
+    "version": "1.9.0",
+    "repository": "https://github.com/Kotlin/kotlinx.coroutines",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [
+      "LICENSES/org.jetbrains.kotlinx_kotlinx-coroutines-bom-0-org.jetbrains.kotlinx-kotlinx-coroutines-bom-1.9.0.pom"
+    ],
+    "revision": "1.9.0",
+    "modifications": "Unmodified Maven release. The Apache Software License, Version 2.0"
+  },
+  {
+    "name": "org.jetbrains.kotlinx:kotlinx-coroutines-core",
+    "version": "1.9.0",
+    "repository": "https://github.com/Kotlin/kotlinx.coroutines",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [
+      "LICENSES/org.jetbrains.kotlinx_kotlinx-coroutines-core-0-org.jetbrains.kotlinx-kotlinx-coroutines-core-1.9.0.pom"
+    ],
+    "revision": "1.9.0",
+    "modifications": "Unmodified Maven release. The Apache Software License, Version 2.0"
+  },
+  {
+    "name": "org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm",
+    "version": "1.9.0",
+    "repository": "https://github.com/Kotlin/kotlinx.coroutines",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [
+      "LICENSES/org.jetbrains.kotlinx_kotlinx-coroutines-core-jvm-0-org.jetbrains.kotlinx-kotlinx-coroutines-core-jvm-1.9.0.pom"
+    ],
+    "revision": "1.9.0",
+    "modifications": "Unmodified Maven release. The Apache Software License, Version 2.0"
+  },
+  {
+    "name": "org.jspecify:jspecify",
+    "version": "1.0.0",
+    "repository": "https://github.com/jspecify/jspecify/",
+    "license": "Apache-2.0",
+    "scope": "Android release runtime",
+    "notices": [
+      "LICENSES/org.jspecify_jspecify-0-org.jspecify-jspecify-1.0.0.pom"
+    ],
+    "revision": "1.0.0",
+    "modifications": "Unmodified Maven release. The Apache License, Version 2.0"
+  }
+]

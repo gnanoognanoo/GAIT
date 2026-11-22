@@ -1,0 +1,11 @@
+Model Information:
+* title:	Prosthesis Leg
+* source:	https://sketchfab.com/3d-models/prosthesis-leg-6339595921fe491fb58772ec1502c87b
+* author:	thunk3d.scanner (https://sketchfab.com/thunk3d.scanner)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Prosthesis Leg" (https://sketchfab.com/3d-models/prosthesis-leg-6339595921fe491fb58772ec1502c87b) by thunk3d.scanner (https://sketchfab.com/thunk3d.scanner) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,37 @@
+name: kinetiq_motion
+description: Local-first wearable motion monitoring.
+publish_to: none
+version: 0.2.0+2
+environment:
+  sdk: '>=3.10.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  universal_ble: ^1.0.1
+  hive_ce: ^2.11.3
+  path_provider: ^2.1.5
+  flutter_secure_storage: ^10.0.0
+  # pdf 3.12 caps archive below the API used by image 4.11.
+  image: 4.5.4
+  image_picker: 1.2.3
+  pdf: ^3.11.3
+  share_plus: ^12.0.1
+  model_viewer_plus: ^1.9.3
+  webview_flutter: ^4.9.0
+  web: ^1.1.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/models/prosthesis_leg_rigged.glb
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/roboto-regular.ttf
+        - asset: assets/fonts/roboto-bold.ttf
+          weight: 700
+
